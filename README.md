@@ -1,4 +1,5 @@
-![Using Genetic Algorithm  for feature selection in text dataset ](https://www.dropbox.com/s/9wzwif2744ulz0q/Picturea.png?raw=1)
+![Using Genetic Algorithm  for feature selection in text dataset](https://www.dropbox.com/s/htjado9iveuqr6d/Picturea.png?raw=1)
+
 # Using Genetic Algorithm  for feature selection in text dataset  
 This project presents a wrapper approach of feature selection using a genetic algorithm. The multinomial event model of Naïve Bayes was used as a fitness function to determine the selected features of the documents. Different experiments have been performed on the 20newsgroups dataset to see the impact of the population size and the number of generations. The experiments were compared with the classification without feature selection using different evaluation metrics. All the experiment results showed that feature selection using the genetic algorithm will positively affect the classification performance.
 
